@@ -1,0 +1,23 @@
+{
+  "name": "vox-kit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Vox-style explainer/documentary template kit: paper collage, cut-outs, red markers, case boards and subtitles as Remotion components.",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts VoxDemo out/vox-demo.mp4",
+    "still": "remotion still src/index.ts VoxDemo out/still.png --frame=500",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.538",
+    "@remotion/fonts": "4.0.538",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.538"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}
