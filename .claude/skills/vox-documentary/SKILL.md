@@ -70,16 +70,20 @@ art style.
 
 ## 5. Workflow for a new episode
 
+Get the user's approval at each stage before starting the next: script, HTML
+storyboard with sound, then voice, mix, render, QC and delivery.
+
 1. **Research.** Collect sourced facts in a table: claim, source, and
    whether it is disputed.
 2. **Script.** Follow §1 and §2. Mark each line with the template it uses.
 3. **Storyboard.** Copy `src/demo/script.ts` to `src/episodes/<slug>/script.ts`.
    List scene boundaries in seconds in `SCENES` and subtitle lines in `CUES`.
-4. **Voiceover.** Use ElevenLabs (the ElevenLabs connector: list voices, pick
-   a calm documentary voice, then generate). Use the word timestamps to set
-   the `CUES` and scene boundaries, and drop the audio into `public/` with
-   `<Audio src={staticFile(...)} />`, with a music bed about 18 dB under the
-   voice.
+4. **Voiceover.** Never use ElevenLabs; the user declined it. Use a local
+   voice (Chatterbox cloned from the Kokoro `am_fenrir` reference, with
+   Kokoro as the fallback) or the user's own recording. Use Whisper word
+   timings to set the `CUES` and scene boundaries, and drop the audio into
+   `public/` with `<Audio src={staticFile(...)} />`, with sparse sound under
+   the voice (see `paper-trail/HANDOFF.md`).
 5. **Build scenes.** Copy `src/demo/VoxDemo.tsx` and compose only from kit
    components. If a new visual is needed, add it to `src/kit/` as a reusable
    template, not a one-off.

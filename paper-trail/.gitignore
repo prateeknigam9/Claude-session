@@ -1,0 +1,13 @@
+# Re-creatable render output (resumable frame caches, contact sheets)
+**/out/frames/
+**/out/frames_storyboard/
+**/out/check/
+# Python / Node environments and caches (re-install from requirements instead)
+**/node_modules/
+**/__pycache__/
+*.pyc
+chatterbox-env/
+kokoro-env/
+# Rejected and alternate voice takes
+**/vo/takes_rejected/
+**/vo/takes_alt/
