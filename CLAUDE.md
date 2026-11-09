@@ -20,6 +20,11 @@ Every step needs the user's approval before the next one starts:
 Each part (Part 1–4 of an episode) gets its own storyboard approval and its
 own voiced-master approval.
 
+The `vox-animation` skill has its own staged flow and defaults: edge-tts
+voices, 60 s, 9:16. When it is used, the production order and approvals
+above still apply, and the voice rules below replace its edge-tts step
+unless the user says otherwise.
+
 ## Voice
 
 - **No ElevenLabs.** The user declined it; never propose it. Also don't use
