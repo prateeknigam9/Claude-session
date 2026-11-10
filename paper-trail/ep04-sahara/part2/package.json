@@ -1,0 +1,13 @@
+{
+  "name": "reelmimic-paper-cutout",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^25.11.0"
+  },
+  "devDependencies": {
+    "topojson-client": "^3.1.0",
+    "us-atlas": "^3.0.1",
+    "world-atlas": "^2.0.2"
+  }
+}

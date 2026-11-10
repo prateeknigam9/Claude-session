@@ -1,0 +1,27 @@
+id	text	gap	mood
+01	September, twenty oh-nine.	0.35	low
+02	One of Sahara's companies wants to sell shares on the stock market.	0.35	low
+03	To do that, it has to file a thick document with the regulator. Every detail. Every risk.	0.6	low
+04	It's the kind of paperwork almost nobody reads.	0.35	warm
+05	But somewhere inside, it mentions two other Sahara companies.	0.35	warm
+06	And it says they've been raising money from the public.	0.6	warm
+07	A few weeks later, the complaints arrive.	0.35	low
+08	One comes from a group of investor advocates.	0.35	low
+09	Another is a letter, written in Hindi, from a man in Indore.	0.6	low
+10	The man had written to the national housing bank. They passed it to the market regulator.	0.35	build
+11	His question is short:	0.35	build
+12	How are these companies collecting so much money from ordinary people… and who gave them permission?	1.55	build
+13	The regulator starts asking.	0.35	low
+14	And Sahara's answer is just as short: this is none of your business.	0.6	low
+15	According to Sahara, these weren't shares or public bonds. They were a private offer. Something you make to friends, to family.	0.6	warm
+16	A private offer… to about three crore people.	0.6	hit
+17	The regulator doesn't accept that. In twenty eleven, it orders the two companies to pay everyone back, with interest.	0.35	build
+18	Sahara appeals. It loses.	0.35	build
+19	Then it appeals again, to the Supreme Court.	0.6	build
+20	August, twenty twelve.	0.35	low
+21	The court rules that this was a public offer all along, and that the money was raised in breach of the law.	0.35	low
+22	Pay it back, it says. All of it. Fifteen percent interest.	0.6	low
+23	For the regulator, it feels like the end.	0.35	build
+24	They just have to find the investors.	0.35	build
+25	So they ask Sahara for the list.	1.55	build
+26	And Sahara sends it.	0.35	hit
