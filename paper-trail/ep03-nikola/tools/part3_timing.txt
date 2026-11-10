@@ -1,0 +1,50 @@
+   4.0    5.8  The firm was called Hindenburg Research.
+   6.0    7.2  It was a short-seller.
+   7.6   11.1  Here's what that means. Most investors win when a stock goes up.
+  11.4   13.7  A short-seller wins when a stock goes down.
+  14.0   17.2  So a short-seller has every reason to dig for bad news.
+  17.6   18.8  That makes them biased.
+  19.0   24.3  But it also makes them the only people in the room who are paid to ask hard questions.
+  24.7   31.5  The title of the report was: "How to Parlay an Ocean of Lies into a Partnership with the Largest Auto O.E.M. in America".
+  31.9   35.4  The report said Nikola had been built on dozens of false claims.
+  35.7   38.9  And right at the top was the truck on the hill.
+  39.3   44.6  It said the truck had been rolled down a slope, and filmed to look like it was driving.
+  45.0   47.6  Now, a report from a short-seller is not proof.
+  47.9   49.4  So what did Nikola say?
+  49.8   51.8  Nikola called the report false and misleading.
+  52.1   56.8  It called it a hit job by people trying to make money off its falling stock.
+  57.2   61.0  But then, a few days later, Nikola said something remarkable about the video.
+  61.4   66.4  It said it had never stated the truck was driving under its own power in that video.
+  66.8   67.7  Read that again.
+  68.1   70.4  The company had called the video "In Motion".
+  70.7   72.5  And the truck was in motion.
+  72.7   74.8  It just wasn't moving on its own.
+  75.2   76.6  That's red flag number three.
+  76.9   80.1  When the defence is about the exact words, not the truth.
+  80.5   81.7  The stock fell. Fast.
+  82.1   85.3  Ten days after the report, Trevor Milton stepped down as chairman.
+  85.6   89.1  He said the focus should be on the company, not on him.
+  89.4   91.7  And he said he would fight the allegations.
+  92.1   95.3  Then General Motors walked back its deal. No stake. No Badger.
+  95.6   98.0  Just a much smaller agreement to supply parts.
+  98.4  102.5  The Badger, the pickup truck that was supposed to be fully working, was cancelled.
+ 102.9  104.6  And then the government stepped in.
+ 105.0  106.5  The stock market regulator investigated.
+ 106.8  112.3  And in December twenty twenty-one, Nikola agreed to pay one hundred and twenty-five million dollars to settle the case.
+ 112.6  115.2  It didn't admit wrongdoing, and it didn't deny it.
+ 115.6  119.5  As for Trevor Milton, federal prosecutors in New York charged him with fraud.
+ 119.7  121.5  Not for building a bad truck.
+ 121.7  123.5  For lying to investors about it.
+ 123.9  126.2  That difference matters. Startups fail all the time.
+ 126.5  127.7  That's not a crime.
+ 127.9  132.3  Telling people a truck works when you know it doesn't, so they'll buy your stock…
+ 132.6  134.3  that's what the case was about.
+ 134.8  137.4  In October twenty twenty-two, the trial ended in Manhattan.
+ 137.7  140.6  Milton's lawyers said he was an optimist, not a fraud.
+ 140.8  143.2  That he believed in what he was saying.
+ 143.6  145.1  The jury didn't buy it.
+ 145.5  150.5  They found Trevor Milton guilty of one count of securities fraud and two counts of wire fraud.
+ 150.9  155.0  A man who had been worth billions on paper was now a convicted fraudster.
+ 155.4  157.4  But this story has one more turn.
+ 157.7  160.9  And it's the one that made people angry all over again.
+END 161.3

@@ -1,0 +1,27 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Opening Test Comparison</title><style>
+:root{--bg:#0f1719;--card:#182326;--ink:#e9efe9;--mute:#9fb1ae;--acc:#e0b84a;--red:#c8463a}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#f4f1ea;--card:#fff;--ink:#1c1a1a;--mute:#5a5650}}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,serif}
+main{max-width:1180px;margin:0 auto;padding:28px 16px 80px} h1{font:700 30px/1.15 Georgia,serif;margin:0 0 6px} .sub{color:var(--mute);margin:0 0 22px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:18px}
+.card{background:var(--card);border-radius:10px;padding:16px} .card h2{font-size:19px;margin:0 0 4px} .tag{display:inline-block;font:700 12px sans-serif;padding:2px 7px;border-radius:4px;background:var(--red);color:#fff;margin-bottom:8px}
+.tag.new{background:#2e8a55} video{width:100%;border-radius:6px;background:#000;display:block;margin:8px 0} audio{width:100%;margin-top:6px}
+ul{padding-left:20px;margin:8px 0} li{margin:3px 0} .note{border-left:4px solid var(--acc);padding:10px 14px;margin:24px 0;background:var(--card);border-radius:4px}
+</style></head><body><main>
+<h1>Case 03 · opening test</h1><p class="sub">Same story, three ways. Watch the first one, then the two new ones. Which would you keep watching?</p>
+<div class="grid">
+<section class="card"><span class="tag">CURRENT</span><h2>v1 · fact-led, Kokoro voice</h2>
+<video controls preload="metadata" src="out/opening_v1_current.mp4"></video>
+<ul><li>Narrator lists facts; the ending (guilty, 4 years, pardon) is told in the first minute</li><li>Cards, stamps and labels; paper slam every few seconds</li></ul></section>
+<section class="card"><span class="tag new">NEW</span><h2>v2 · story-led, Chatterbox voice</h2>
+<video controls preload="metadata" src="out/opening_v2_chatterbox.mp4"></video>
+<ul><li>We sit with the researchers; one question, a reveal, a choice; the outcome is held back</li><li>Staged scenes: a rainy night office, the video on a monitor, the frame tilts to show the hill, a finger over PUBLISH</li><li>Voice: Chatterbox (free, MIT), more emotion per line</li></ul></section>
+<section class="card"><span class="tag new">NEW</span><h2>v2 · story-led, directed Kokoro</h2>
+<video controls preload="metadata" src="out/opening_v2_kokoro.mp4"></video>
+<ul><li>Same pictures and sound</li><li>Voice: Kokoro "fenrir" (deeper), slower per-line speed and longer pauses</li></ul></section>
+</div>
+<div class="note"><b>Other voices to hear (audio only):</b>
+<p>Kokoro "onyx" (another deep voice)</p><audio controls preload="none" src="voice/kokoro_am_onyx.wav"></audio>
+<p>Chatterbox, its own default voice</p><audio controls preload="none" src="voice/chatterbox_cbdef.wav"></audio></div>
+</main></body></html>

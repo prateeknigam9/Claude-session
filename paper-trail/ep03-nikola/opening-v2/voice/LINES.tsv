@@ -1,0 +1,19 @@
+id	text	gap	speed	mood
+01	September, twenty twenty. New York.	0.7	0.88	low
+02	A small team of researchers has been digging into one company for months.	0.35	0.95	low
+03	Old videos. Internal messages. Former employees, finally talking.	0.6	0.9	low
+04	And one video they keep coming back to.	0.8	0.88	low
+05	A huge white truck, gliding down a desert road.	0.3	0.95	warm
+06	Silent. Smooth. The future.	0.7	0.85	warm
+07	The company behind it is worth about thirty billion dollars. More than Ford.	0.35	1.0	build
+08	And General Motors has just agreed to buy a two-billion-dollar piece of it.	0.7	1.0	build
+09	But the researchers have noticed something about that road.	1.3	0.9	low
+10	It's not flat.	1.3	0.8	hit
+11	According to their sources, the truck wasn't driving at all.	0.35	0.95	low
+12	Someone had towed it to the top of a hill... and let it roll.	0.9	0.9	low
+13	So now they have a choice.	0.5	0.92	build
+14	Publish... and take on one of the hottest companies in America, and the biggest carmaker in the country.	0.4	1.02	build
+15	Or stay quiet.	1.1	0.85	low
+16	On September tenth, they hit publish.	0.8	0.95	hit
+17	What happened next would end in a courtroom... a bankruptcy... and a phone call from the White House.	0.9	0.92	build
+18	This is the paper trail. Case three. The Hill.	1.0	0.92	title

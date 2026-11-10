@@ -1,0 +1,17 @@
+BEATS = [
+ ('3.0', 'Chapter card', 0, 4.0, [2.0], 'Black torn panel: CASE FILE 3 / 4 · THE REPORT, up from black.'),
+ ('3.1', 'The report lands', 4.0, 16.2, [5.0, 7.8, 11.0, 14.5], 'Morning, the same office in daylight; phones buzzing on the desk. Close on the report\'s title page: NIKOLA: HOW TO PARLAY AN OCEAN OF LIES… (Hindenburg Research, Sept 10, 2020); "OCEAN OF LIES" gets highlighted. Pages fan out across the desk; item 1 slides up on top: the truck on the hill, "Nikola One in Motion".'),
+ ('3.2', 'Short-sellers: not neutral', 16.2, 26.4, [17.5, 24.0], 'A wall of trading screens flips from green to red. Then on graph paper (SHORT-SELLERS): a falling red line; coins drop into a waiting hand; a red NOT NEUTRAL tag.'),
+ ('3.3', 'The company hits back', 26.4, 37.0, [29.0, 34.5], 'A spokesperson silhouette at a podium with a paper mic; a big bubble: "FALSE AND DEFAMATORY" (tag: NIKOLA). Then the NKLA line wobbles… and steadies.'),
+ ('3.4', 'One sentence', 37.0, 53.9, [40.0, 48.0, 52.5], 'A single sheet on a dark desk: NIKOLA · STATEMENT. One line types itself, word by word: "…never stated its truck was driving under its own propulsion…" The cursor blinks. On "Read that again." the line is highlighted, the camera pushes in, and there is silence.'),
+ ('3.5', 'In motion — downhill', 53.9, 62.6, [55.0, 61.0], 'The video, levelled so it looks flat; the frame tilts back to the true slope (the dashed level line, the degree number), and an arrow and a tag: GRAVITY.'),
+ ('3.6', 'Everything falls fast', 62.6, 74.9, [65.0, 69.5, 73.8], 'The founder\'s big office, empty: his chair turns slowly; two glasses lie on their sides; the FOUNDER nameplate tips over (SEPT 2020). Then on a corkboard the handshake photo tears in half (GENERAL MOTORS / NIKOLA) and THE BADGER card is stamped CANCELLED.'),
+ ('3.7', 'The driver holds', 74.9, 84.8, [77.0, 83.5], 'Close on his phone: NKLA, a red line melting down. Then the driver on the sofa at night, red light on his face, sad; bubbles of posts pop up around him: IT\'LL COME BACK · HOLD! · BUY THE DIP (EXAMPLE · NOT A REAL PERSON).'),
+ ('3.8', 'The government comes', 84.8, 99.4, [87.5, 95.0, 98.0], 'A marble corridor, two silhouettes walking (REGULATOR · SEC, PROSECUTORS · NEW YORK). A SETTLEMENT page: Nikola Corporation, $125,000,000, WITHOUT ADMITTING OR DENYING. A folder slides in: U.S. v. MILTON — CHARGED: FRAUD.'),
+ ('3.9', 'Failed vs lied', 99.4, 110.1, [105.0, 108.6], 'Two doors in a dark corridor: FAILED swings open with warm light (NOT A CRIME); LIED — its padlock drops shut on "he knew it didn\'t".'),
+ ('3.10', 'The trial', 110.1, 128.6, [111.0, 117.0, 124.0], 'SEPT 2022 · MANHATTAN: a wood-panelled courtroom, twelve paper jurors in shadow. The hill video is projected huge on the wall above them. A defense lawyer silhouette: AN OPTIMIST, NOT A FRAUD (tag: DEFENSE).'),
+ ('3.11', '"Prone to exaggeration"', 128.6, 136.4, [133.5], 'The witness box (NIKOLA CEO · WITNESS); a small bubble in type: "prone to exaggeration".'),
+ ('3.12', 'Guilty', 136.4, 141.0, [138.5, 140.0], 'Dark wood. The gavel comes down: GUILTY; SECURITIES FRAUD · WIRE FRAUD (OCT 2022). Nothing else moves; no music.'),
+ ('3.13', 'It isn\'t over', 141.0, 148.5, [143.0, 146.5], 'The case folder swings shut: CLOSED. A beat… then a phone beside it buzzes and lights up: INCOMING CALL. (Part 4: The Phone Call.)'),
+]
+SUB = 'CASE FILE 3 "The Report" · after Part 2 · ≈ 2:28'
