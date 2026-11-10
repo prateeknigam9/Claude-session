@@ -1,6 +1,6 @@
 # Case No. 04: Three Crore Names (Sahara) — script v1 (style v2), 2026-11-10
 
-- **Status:** SCRIPT, waiting for your approval. Next comes the storyboard with sound, part by part.
+- **Status:** SCRIPT ✅ approved 2026-11-10. Next: the storyboard with sound, part by part (cold open first).
 - **The question we hold back:** were the three crore investors real? It has never been settled, so the episode doesn't settle it either. It lays out both sides and ends on what is still waiting in the account.
 - **Style v2:**
   - Story-led. We follow three threads: a depositor (an example), the regulator's team opening the cartons (a reconstruction), and the founder (a generic puppet).

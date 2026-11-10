@@ -21,3 +21,9 @@ ep03-nikola/v2/storyboard/sfx/b2_paper_slam_a.mp3
 ep03-nikola/v2/storyboard/sfx/b2_paper_slam_b.mp3
 ep03-nikola/v2/storyboard/sfx/b4_clock_tick_g.mp3
 ep03-nikola/v2/storyboard/sfx/b4_string_snap_b.mp3
+# Case 04 build outputs (re-made by render.mjs, mix.py and make_storyboard.py; LFS uploads are refused from cloud sessions)
+ep04-sahara/opening/node_modules
+ep04-sahara/opening/sound/scratch_open.wav
+ep04-sahara/opening/out/*.mp4
+ep04-sahara/storyboard/video/
+ep04-sahara/storyboard/sfx/
