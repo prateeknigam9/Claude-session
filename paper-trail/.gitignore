@@ -11,3 +11,13 @@ kokoro-env/
 # Rejected and alternate voice takes
 **/vo/takes_rejected/
 **/vo/takes_alt/
+# Look-dial build outputs (re-made by render.mjs and make_open_storyboard.py; LFS uploads are refused from cloud sessions)
+ep03-nikola/opening-v2/out/opening_v3_dial_animatic.mp4
+ep03-nikola/opening-v2/package-lock.json
+ep03-nikola/v2/storyboard/video/open_dial_animatic_720p.mp4
+ep03-nikola/v2/storyboard/sfx/ambient_tension_02.mp3
+ep03-nikola/v2/storyboard/sfx/b2_clock_tick_a.mp3
+ep03-nikola/v2/storyboard/sfx/b2_paper_slam_a.mp3
+ep03-nikola/v2/storyboard/sfx/b2_paper_slam_b.mp3
+ep03-nikola/v2/storyboard/sfx/b4_clock_tick_g.mp3
+ep03-nikola/v2/storyboard/sfx/b4_string_snap_b.mp3
