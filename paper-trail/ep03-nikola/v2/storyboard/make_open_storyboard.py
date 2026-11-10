@@ -14,7 +14,7 @@ FPS = 24
 for d in ('stills', 'sfx', 'video'): os.makedirs(os.path.join(HERE, d), exist_ok=True)
 
 # planned (story) time -> real (voiced) time: invert the warp in src/config.js
-WARP = [tuple(map(float, p)) for p in re.findall(r'\[([\d.]+),\s*([\d.]+)\]', re.search(r'WARP_PTS = \[(.*?)\];', open(os.path.join(OPEN, 'src', 'config.js'), encoding='utf8', errors='replace').read()).group(1))]
+WARP = [tuple(map(float, p)) for p in re.findall(r'\[([\d.]+),\s*([\d.]+)\]', re.search(r'WARP_PTS = \[(.*?)\];', open(os.path.join(OPEN, 'src', 'warp.js'), encoding='utf8', errors='replace').read()).group(1))]
 DUR = float(re.search(r'duration:\s*([\d.]+)', open(os.path.join(OPEN, 'src', 'config.js'), encoding='utf8', errors='replace').read()).group(1))
 def real(p):
     for (r0, p0), (r1, p1) in zip(WARP, WARP[1:]):
@@ -54,7 +54,7 @@ for num, title, pa, pb, dial, pic in BEATS:
     ts = [a + (b - a) * f for f in ((.35, .8) if b - a > 4 else (.6,))]
     pairs = ''.join(f'''<figure class="pair"><div><img src="{grab(BEFORE, t, os.path.join(HERE, 'stills', f'open_before_{t:05.1f}.jpg'))}" alt="Approved look at {tc(t)}" loading="lazy"><span>Approved</span></div>
 <div><img src="{grab(AFTER, t, os.path.join(HERE, 'stills', f'open_dial_{t:05.1f}.jpg'))}" alt="Dial build at {tc(t)}" loading="lazy"><span>Dial build</span></div><figcaption>{tc(t)}</figcaption></figure>''' for t in ts)
-    vo = ''.join(f'<li>{html.escape(l[3])}</li>' for l in LINES if a - .05 <= float(l[1]) < b)
+    vo = ''.join(f'<li>{html.escape(l[3])}</li>' for l in LINES if a <= float(l[1]) + float(l[2]) / 2 < b)
     snd = [(nice(c[2]), c[2]) for c in CUES if c[1] == 'one' and a <= float(c[3]) < b][:6]
     mus = [(nice(c[2]) + ' (music / ambience)', c[2]) for c in CUES if c[1] == 'loop' and float(c[3]) < b and float(c[3]) + float(c[4]) > a]
     sounds = ''.join(f'<li><span>{html.escape(n)}</span><audio controls preload="none" src="{sfx(p)}"></audio></li>' for n, p in mus + snd) or '<li><span>Silence</span></li>'
