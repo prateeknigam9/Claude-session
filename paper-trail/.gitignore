@@ -27,3 +27,6 @@ ep04-sahara/opening/sound/scratch_open.wav
 ep04-sahara/opening/out/*.mp4
 ep04-sahara/storyboard/video/
 ep04-sahara/storyboard/sfx/
+ep04-sahara/part*/node_modules
+ep04-sahara/part*/sound/scratch_*.wav
+ep04-sahara/part*/out/*.mp4

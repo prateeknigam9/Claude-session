@@ -1,0 +1,24 @@
+id	text	gap	mood
+01	To understand the trucks, you have to start with a scooter.	0.35	low
+02	Gorakhpur, nineteen seventy-eight.	0.6	low
+03	A young man named Subrata Roy starts a small savings business. The stories say he had two thousand rupees, a borrowed scooter, and one desk.	0.6	warm
+04	His idea is simple.	0.35	warm
+05	Millions of Indians have no bank account. They earn a little every day, in cash.	0.35	warm
+06	So Sahara sends people to them.	0.6	warm
+07	Meet Kamla. She's our example: not a real person, but someone like millions who were.	0.35	low
+08	She sells vegetables. Every evening, a man from Sahara stops at her stall.	0.35	low
+09	Twenty rupees today. Thirty tomorrow. He writes it in a little book.	0.6	low
+10	He knows her name. He knows her children's names.	0.35	warm
+11	He's not a banker in a tie. He's from the neighbourhood.	0.35	warm
+12	And he tells her she's part of something bigger. A family.	0.6	warm
+13	Sahara calls itself exactly that: the Sahara India Pariwar. The Sahara family.	0.35	build
+14	And the family grows. And grows.	0.6	build
+15	An airline. Television channels. Townships. A private hill city outside Pune.	0.35	build
+16	The name goes on the shirts of the Indian cricket team.	0.35	build
+17	Hotels in London and New York.	0.6	build
+18	Subrata Roy becomes "Saharasri". He lives like a king, and he says the family comes first.	0.6	warm
+19	And for years, nobody asks the simple question.	0.35	low
+20	Where does all this money come from?	0.6	low
+21	Kamla doesn't ask either. Why would she?	0.35	low
+22	Her book says her money is there. The man comes every evening.	1.55	low
+23	But in a different office, far from her stall, someone is about to read the fine print.	0.35	low
