@@ -7,7 +7,7 @@
   - Each part works as question → reveal → choice.
   - Staged scenes, very little on-screen text.
   - Chatterbox voice; sound kept sparse.
-- **Length:** about 1,700 narrated words, ≈ 12 minutes at the expressive pace, plus chapter cards and the end screen.
+- **Length:** about 1,340 narrated words, ≈ 10 minutes at the expressive pace (≈ 2.4 words/s with pauses), plus chapter cards and the end screen. That's the short end of the series' 10–15 minutes; Parts 1 and 4 are the easiest to extend if you want it longer.
 - **Voice moods:** `(low)` `(warm)` `(build)` `(hit)` set Chatterbox's intensity per line. `[pause]` means a real pause, and `[SCREEN: …]` is the picture.
 - **Legal standing (stricter than Case 03):**
   - Nobody in this story has been convicted of fraud in the bond case. The Supreme Court ruled the money was raised **in breach of the law** and ordered it returned. That is the only finding stated as fact.
@@ -18,11 +18,11 @@
 
 **Chapters (approximate):**
 1. 0:00 Cold open: 127 Trucks
-2. 1:10 **The Family**
-3. 3:40 **The Letter**
-4. 6:05 **The Cartons**
-5. 8:40 **The Account**
-6. 11:45 Next case
+2. 1:00 **The Family**
+3. 3:05 **The Letter**
+4. 5:05 **The Cartons**
+5. 7:10 **The Account**
+6. 9:55 Next case
 
 ---
 
