@@ -20,10 +20,16 @@ Every step needs the user's approval before the next one starts:
 Each part (Part 1–4 of an episode) gets its own storyboard approval and its
 own voiced-master approval.
 
-The `vox-animation` skill has its own staged flow and defaults: edge-tts
-voices, 60 s, 9:16. When it is used, the production order and approvals
-above still apply, and the voice rules below replace its edge-tts step
-unless the user says otherwise.
+## Series format
+
+- Long-form episodes, 10–15 minutes, 16:9.
+- Never make Shorts tests. Shorts are only cut from finished long videos.
+
+The `vox-animation` skill is used for this series. Its own staged flow and
+defaults (edge-tts voices, 60 s, 9:16) give way to these rules: the
+production order and approvals above apply, the series format applies, and
+the voice rules below replace its edge-tts step unless the user says
+otherwise.
 
 ## Voice
 
